@@ -10,21 +10,21 @@ Graças à preparação registrada neste repositório, consegui a classificaçã
 
 # 📂 Estrutura do repositório
 
-Cada pasta corresponde a uma prova ou conjunto de exercícios.
+Cada pasta corresponde a uma questão, com o código que utilizei para resolve-la e um README.md com um resumo da questão.
 
 Exemplo:
 
 ```
 📦 OBI-2026
-│
-├── 📁 Primeira Fase
-│   ├── 📁 Questão 1
-│   │   ├── enunciado.pdf
-│   │   └── questao1.cpp
-│   │
-│   ├── 📁 Questão 2
-│   │   ├── enunciado.pdf
-│   │   └── questao2.cpp
+│   ├── 📁 Questão Elevador
+│   │   ├── elevador.pdf
+│   │   └── elevador.cpp
+│   │   └── README.md
+|   |
+│   ├── 📁 Questão Encontro de Amigas
+│   │   ├── encontro.pdf
+│   │   └── encontro.cpp
+|   |   └── README.md
 │   │
 │   └── ...
 │
@@ -35,6 +35,7 @@ Cada questão possui:
 
 - 📄 Enunciado em PDF
 - 💻 Solução em C++
+- 📄 Resumo da questão em md
 
 ---
 
